@@ -1,0 +1,20 @@
+INFO:root:I'm going to start my program
+INFO:root:I'm going to start my program
+WARNING:root:this is first warning of my program
+ERROR:root:this is first error of my program
+CRITICAL:root:this is first critical error of my program
+INFO:root:I'm going to start my division program
+INFO:root:I'm going to start my division program
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\Users\LakshmanAIMLHYD\AppData\Local\Temp\ipykernel_2836\1205808932.py", line 4, in test
+    div=x/y
+        ~^~
+ZeroDivisionError: division by zero
+ERROR:root:[Errno 2] No such file or directory: 'files/sample10.txt'
+ERROR:root:[Errno 2] No such file or directory: 'files/sample10.txt'
+ERROR:root:[Errno 2] No such file or directory: 'files/sample10.txt'
+INFO:root:Adding 10 and 5, result: 15
+INFO:root:Subtracting 5 from 10, result: 5
+INFO:root:Multiplying 10 and 5, result: 50
+INFO:root:Dividing 10 by 5, result: 2.0
